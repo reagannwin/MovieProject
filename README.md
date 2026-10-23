@@ -41,7 +41,7 @@ Open `.env.local` and add your TMDB token (see below), then run:
 npm run dev
 ```
 
-The app runs at http://localhost:5173.
+The app runs at http://localhost:5173. (yes i'm cheap)
 
 ### 1. TMDB (required)
 
